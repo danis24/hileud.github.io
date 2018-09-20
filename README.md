@@ -7,3 +7,7 @@ Aplikasi jenazah adalah aplikasi yang bisa digunakan untuk melakukan jual beli k
 - ReatcJs,
 - VueJs
 ```
+
+- git config --global user.email "danistutorial@gmail.com"
+
+-
